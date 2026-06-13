@@ -2,7 +2,7 @@
 
 <H1 ALIGN=CENTER> Experiment-1: Implementation of Bayesian Networks</H1>
 
-### Name: SRI MUTHAZHAGAN P
+### Name: Sri muthazhagan P
 ### Register Number: 2305002024
 
 
